@@ -199,7 +199,7 @@ Innehåll i metadata för varje organisation:
 
 Mer information om metadataregistret, inklusive nyckel för att verifiera metadata finns här:
 
-[https://www.skolfederation.se/teknisk-information/kontosynk/tekniska-miljoer/](https://www.skolfederation.se/teknisk-information/kontosynk/tekniska-miljoer/)
+[https://www.skolfederation.se/teknisk-information/moa/tekniska-miljoer/](https://www.skolfederation.se/teknisk-information/moa/tekniska-miljoer/)
 
 Det metadataregister som användes under PoC-fasen finns publicerat här: [https://fedscim-poc.skolfederation.se/md/skolfederation-fedscim-0\_1.json](https://fedscim-poc.skolfederation.se/md/skolfederation-fedscim-0_1.json)
 
